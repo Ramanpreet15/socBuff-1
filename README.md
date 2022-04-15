@@ -1,2 +1,2 @@
 # socBuff
-Social Media Dashboard
+A Social Media Dashboard
